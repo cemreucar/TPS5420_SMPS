@@ -49,7 +49,7 @@ The pcb of the project:
 
 
 
-The routing of the project:
+
 
 
 
