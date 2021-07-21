@@ -32,6 +32,7 @@ Shutdown
 •  Available in Small 8-Pin SOIC Package[1]
 
 Description
+
 The TPS5420 is a high-output-current PWM converter that integrates a low resistance high side N-channel MOSFET. Included on the substrate with the listed features is a high performance voltage error amplifier that provides tight voltage regulation accuracy under transient conditions; an undervoltage-lockout circuit to prevent start-up until the input voltage reaches 5.5 V; an internally set slow-start circuit to limit inrush currents; and a voltage feed-forward circuit to improve the transient response. Using the ENA pin, shutdown supply current is reduced to 18 µA typically. Other features include an active-high enable, overcurrent limiting, overvoltage protection and thermal shutdown. To reduce design complexity and external component count, the TPS5420 feedback loop is internally compensated.[2]
 
 The schematic of the project:
