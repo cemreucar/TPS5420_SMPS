@@ -7,18 +7,28 @@ Here some information about TPS5420:
 Features
 
 •  Wide Input Voltage Range: 5.5 V to 36 V
+
 •  Up to 2-A Continuous (3-A Peak) Output Current
+
 •  High Efficiency up to 95% Enabled by 110-mΩ Integrated MOSFET Switch
+
 •  Wide Output Voltage Range: Adjustable Down to 1.22 V with 1.5% Initial Accuracy
+
 •  Internal Compensation Minimizes External Parts Count
+
 •  Fixed 500-kHz Switching Frequency for Small Filter Size
+
 •  Improved Line Regulation and Transient Response by
 Input Voltage Feed Forward
+
 •  System Protected by Over Current Limiting, Over Voltage
 Protection and Thermal
 Shutdown
+
 • –40°C to 125°C Operating Junction
+
 •  Temperature Range
+
 •  Available in Small 8-Pin SOIC Package[1]
 
 Description
@@ -31,11 +41,17 @@ The schematic of the project:
 
 
 The pcb of the project:
+
+
+
 ![image](https://user-images.githubusercontent.com/59101099/126536857-a59b668b-9970-4be1-955f-09e12420890d.png)
 
 
 
 The routing of the project:
+
+
+
 ![image](https://user-images.githubusercontent.com/59101099/126537601-a71af159-2434-48ac-bc05-b0a788546dad.png)
 
 
