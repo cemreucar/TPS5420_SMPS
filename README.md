@@ -59,6 +59,7 @@ The routing of the project:
 
 
 You can find more information and datasheet of the project in here:
+
 [1][2]https://www.ti.com/product/TPS5420?utm_source=google&utm_medium=cpc&utm_campaign=app-null-null-GPN_EN-cpc-pf-google-wwe&utm_content=TPS5420&ds_k=TPS5420&DCM=yes&gclid=CjwKCAjwi9-HBhACEiwAPzUhHNIzgCTU1DdgTSsThu4S4U56oIfcmMPudNVUgd2NqC-w40RY6FGKUxoCHq8QAvD_BwE&gclsrc=aw.ds
 
 
