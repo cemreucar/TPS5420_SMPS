@@ -53,8 +53,7 @@ The pcb of the project:
 
 
 
-![image](https://user-images.githubusercontent.com/59101099/126539370-a82fff2a-7e4b-490e-bd38-df0b4714887b.png)
-
+![image](https://user-images.githubusercontent.com/59101099/126539432-646f9007-2bf6-40df-896e-bc96bb8c672d.png)
 
 
 
