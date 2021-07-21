@@ -1,4 +1,4 @@
-# TPS5420_StepDownConverter
+# TPS5420_SMPS
 
 In this project, I designed a TPS5420 step-down converter using Altium Designer.
 
